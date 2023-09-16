@@ -23,22 +23,22 @@ Task: Need to create an API where anyone can create questions with options and a
 
 ## Folder Structure
 ```
-CSV_Upload/
-|── |config/
-│   |      ├── mongoose.js
-|   |
-├── routes/
-│   |      ├── api/
-│   ├── index.js
-|   |
-├── controllers/
-│   ├── OptionsController.js
-│   ├── QuestionsController.js
-|   |
-├── models/
-│   ├── options.js
-│   ├── questions.js
-|   |
-├── package-lock.json
-├── package.json
-├── README.md
+Polling API/
+#|── |config/
+#│   |      ├── mongoose.js
+#|   |
+#├── routes/
+#│   |      ├── api/
+#│   ├── index.js
+#|   |
+#├── controllers/
+#│   ├── OptionsController.js
+#│   ├── QuestionsController.js
+#|   |
+#├── models/
+#│   ├── options.js
+#│   ├── questions.js
+#|   |
+#├── package-lock.json
+#├── package.json
+#├── README.md
